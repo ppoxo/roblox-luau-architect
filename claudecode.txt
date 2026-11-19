@@ -1,0 +1,2 @@
+Copy this code and paste this on the terminal.
+git clone https://github.com ~/.claude/skills/roblox-luau-architect
